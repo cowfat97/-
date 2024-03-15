@@ -3,6 +3,8 @@
 
 HashMap 是非线程安全的
 
+[TOC]
+
 ## HashMap数据结构
 
    在线程安全的问题前,先看一下HashMap的数据结构
